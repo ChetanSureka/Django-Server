@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+*.sqlite3
+cart/
+schema.js
+uploads/
+utils/
+.vscode/
+*.csv
+p.py
