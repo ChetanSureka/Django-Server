@@ -117,7 +117,8 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:9000",
     "http://localhost:3000",
     "http://192.168.99.171:8000",
-    "http://172.24.16.18:8000"
+    "http://172.24.16.18:8000",
+    "https://django-server-production-c8b1.up.railway.app/",
 ]
 
 
