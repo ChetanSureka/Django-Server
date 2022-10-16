@@ -4,7 +4,7 @@ from rest_framework.decorators import api_view, permission_classes
 from rest_framework.response import Response
 from rest_framework import status
 from .models import *
-from core import settings
+from mysite import settings
 from accounts.models import User
 from rest_framework import generics
 from .serailizers import BrandSerializer, CartSerializer, CartProductSerializer, CategorySerializer, ProductSerializer, ShippingSerializer
